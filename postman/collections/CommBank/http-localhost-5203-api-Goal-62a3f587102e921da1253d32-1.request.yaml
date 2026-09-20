@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:5203/api/Goal/62a3f587102e921da1253d32
+description: ""
+url: http://localhost:5203/api/Goal/62a3f587102e921da1253d32
+method: PUT
+body:
+  type: json
+  content: "{\r\n  \"icon\": \"🤺\"\r\n}"
+order: 2282996005589904
